@@ -2,871 +2,1219 @@
   {
     "infinitive": "backen",
     "pastTense": "backte (buk)",
-    "presentPerfect": "gebacken"
+    "presentPerfect": "gebacken",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "befehlen",
     "pastTense": "befahl",
-    "presentPerfect": "befohlen"
+    "presentPerfect": "befohlen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "beginnen",
     "pastTense": "begann",
-    "presentPerfect": "begonnen"
+    "presentPerfect": "begonnen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "beißen",
     "pastTense": "biss",
-    "presentPerfect": "gebissen"
+    "presentPerfect": "gebissen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "bergen",
     "pastTense": "barg",
-    "presentPerfect": "geborgen"
+    "presentPerfect": "geborgen",
+    "frequency": "infrequent",
+    "translation": "test"
   },
   {
     "infinitive": "bersten",
     "pastTense": "barst",
-    "presentPerfect": "geborsten"
+    "presentPerfect": "geborsten",
+    "frequency": "infrequent",
+    "translation": "test"
   },
   {
     "infinitive": "betrügen",
     "pastTense": "betrog",
-    "presentPerfect": "betrogen"
+    "presentPerfect": "betrogen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "bewegen",
     "pastTense": "bewog",
-    "presentPerfect": "bewogen"
+    "presentPerfect": "bewogen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "biegen",
     "pastTense": "bog",
-    "presentPerfect": "gebogen"
+    "presentPerfect": "gebogen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "bieten",
     "pastTense": "bot",
-    "presentPerfect": "geboten"
+    "presentPerfect": "geboten",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "binden",
     "pastTense": "band",
-    "presentPerfect": "gebunden"
+    "presentPerfect": "gebunden",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "bitten",
     "pastTense": "bat",
-    "presentPerfect": "gebeten"
+    "presentPerfect": "gebeten",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "blasen",
     "pastTense": "blies",
-    "presentPerfect": "geblasen"
+    "presentPerfect": "geblasen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "bleiben",
     "pastTense": "blieb",
-    "presentPerfect": "bleiben"
+    "presentPerfect": "bleiben",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "braten",
     "pastTense": "briet",
-    "presentPerfect": "gebraten"
+    "presentPerfect": "gebraten",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "brechen",
     "pastTense": "brach",
-    "presentPerfect": "gebrochen"
+    "presentPerfect": "gebrochen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "brennen",
     "pastTense": "brannte",
-    "presentPerfect": "gebrannt"
+    "presentPerfect": "gebrannt",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "bringen",
     "pastTense": "brachte",
-    "presentPerfect": "gebracht"
+    "presentPerfect": "gebracht",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "denken",
     "pastTense": "dachte",
-    "presentPerfect": "gedacht"
+    "presentPerfect": "gedacht",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "dingen",
     "pastTense": "dang",
-    "presentPerfect": "gedungen"
+    "presentPerfect": "gedungen",
+    "frequency": "infrequent",
+    "translation": "test"
   },
   {
     "infinitive": "dreschen",
     "pastTense": "drosch",
-    "presentPerfect": "gedroschen"
+    "presentPerfect": "gedroschen",
+    "frequency": "infrequent",
+    "translation": "test"
   },
   {
     "infinitive": "dringen",
     "pastTense": "drang",
-    "presentPerfect": "gedrungen"
+    "presentPerfect": "gedrungen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "empfangen",
     "pastTense": "empfing",
-    "presentPerfect": "empfangen"
+    "presentPerfect": "empfangen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "empfehlen",
     "pastTense": "empfahl",
-    "presentPerfect": "empfohlen"
+    "presentPerfect": "empfohlen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "empfinden",
     "pastTense": "empfand",
-    "presentPerfect": "empfunden"
+    "presentPerfect": "empfunden",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "erbleichen",
     "pastTense": "erbleichte (erblich)",
-    "presentPerfect": "erbleichte (erblichen)"
+    "presentPerfect": "erbleichte (erblichen)",
+    "frequency": "infrequent",
+    "translation": "test"
   },
   {
     "infinitive": "erlöschen",
     "pastTense": "erlosch",
-    "presentPerfect": "erloschen"
+    "presentPerfect": "erloschen",
+    "frequency": "infrequent",
+    "translation": "test"
   },
   {
     "infinitive": "erschrecken",
     "pastTense": "erschrak",
-    "presentPerfect": "erschrocken"
+    "presentPerfect": "erschrocken",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "erwägen",
     "pastTense": "erwog",
-    "presentPerfect": "erwogen"
+    "presentPerfect": "erwogen",
+    "frequency": "infrequent",
+    "translation": "test"
   },
   {
     "infinitive": "essen",
     "pastTense": "aß",
-    "presentPerfect": "gegessen"
+    "presentPerfect": "gegessen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "fahren",
     "pastTense": "fuhr",
-    "presentPerfect": "gefahren"
+    "presentPerfect": "gefahren",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "fallen",
     "pastTense": "fiel",
-    "presentPerfect": "gefallen"
+    "presentPerfect": "gefallen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "fangen",
     "pastTense": "fing",
-    "presentPerfect": "gefangen"
+    "presentPerfect": "gefangen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "fechten",
     "pastTense": "focht",
-    "presentPerfect": "gefochten"
+    "presentPerfect": "gefochten",
+    "frequency": "infrequent",
+    "translation": "test"
   },
   {
     "infinitive": "finden",
     "pastTense": "fand",
-    "presentPerfect": "gefunden"
+    "presentPerfect": "gefunden",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "flechten",
     "pastTense": "flocht",
-    "presentPerfect": "geflochten"
+    "presentPerfect": "geflochten",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "fliegen",
     "pastTense": "flog",
-    "presentPerfect": "geflogen"
+    "presentPerfect": "geflogen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "fliehen",
     "pastTense": "floh",
-    "presentPerfect": "geflohen"
+    "presentPerfect": "geflohen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "fließen",
     "pastTense": "floss",
-    "presentPerfect": "geflossen"
+    "presentPerfect": "geflossen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "fressen",
     "pastTense": "fraß",
-    "presentPerfect": "gefressen"
+    "presentPerfect": "gefressen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "frieren",
     "pastTense": "fror",
-    "presentPerfect": "gefroren"
+    "presentPerfect": "gefroren",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "gären",
     "pastTense": "gor",
-    "presentPerfect": "gegoren"
+    "presentPerfect": "gegoren",
+    "frequency": "infrequent",
+    "translation": "test"
   },
   {
     "infinitive": "gebären",
     "pastTense": "gebar",
-    "presentPerfect": "geboren"
+    "presentPerfect": "geboren",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "geben",
     "pastTense": "gab",
-    "presentPerfect": "gegeben"
+    "presentPerfect": "gegeben",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "gedeihen",
     "pastTense": "gedieh",
-    "presentPerfect": "gediehen"
+    "presentPerfect": "gediehen",
+    "frequency": "infrequent",
+    "translation": "test"
   },
   {
     "infinitive": "gehen",
     "pastTense": "ging",
-    "presentPerfect": "gegangen"
+    "presentPerfect": "gegangen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "gelingen",
     "pastTense": "gelang",
-    "presentPerfect": "gelungen"
+    "presentPerfect": "gelungen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "gelten",
     "pastTense": "galt",
-    "presentPerfect": "gegolten"
+    "presentPerfect": "gegolten",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "genesen",
     "pastTense": "genas",
-    "presentPerfect": "genesen"
+    "presentPerfect": "genesen",
+    "frequency": "infrequent",
+    "translation": "test"
   },
   {
     "infinitive": "genießen",
     "pastTense": "genoss",
-    "presentPerfect": "genossen"
+    "presentPerfect": "genossen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "geschehen",
     "pastTense": "geschah",
-    "presentPerfect": "geschehen"
+    "presentPerfect": "geschehen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "gewinnen",
     "pastTense": "gewann",
-    "presentPerfect": "gewonnen"
+    "presentPerfect": "gewonnen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "gießen",
     "pastTense": "goss",
-    "presentPerfect": "gegossen"
+    "presentPerfect": "gegossen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "gleichen",
     "pastTense": "glich",
-    "presentPerfect": "geglichen"
+    "presentPerfect": "geglichen",
+    "frequency": "infrequent",
+    "translation": "test"
   },
   {
     "infinitive": "gleiten",
     "pastTense": "glitt",
-    "presentPerfect": "geglitten"
+    "presentPerfect": "geglitten",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "glimmen",
     "pastTense": "glomm",
-    "presentPerfect": "geglommen"
+    "presentPerfect": "geglommen",
+    "frequency": "infrequent",
+    "translation": "test"
   },
   {
     "infinitive": "graben",
     "pastTense": "grub",
-    "presentPerfect": "gegraben"
+    "presentPerfect": "gegraben",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "greifen",
     "pastTense": "griff",
-    "presentPerfect": "gegriffen"
+    "presentPerfect": "gegriffen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "halten",
     "pastTense": "hielt",
-    "presentPerfect": "gehalten"
+    "presentPerfect": "gehalten",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "hängen",
     "pastTense": "hing",
-    "presentPerfect": "gehangen"
+    "presentPerfect": "gehangen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "hauen",
     "pastTense": "haute (hieb)",
-    "presentPerfect": "gehauen"
+    "presentPerfect": "gehauen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "heben",
     "pastTense": "hob",
-    "presentPerfect": "gehoben"
+    "presentPerfect": "gehoben",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "heißen",
     "pastTense": "hieß",
-    "presentPerfect": "geheißen"
+    "presentPerfect": "geheißen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "helfen",
     "pastTense": "half",
-    "presentPerfect": "hat geholfen"
+    "presentPerfect": "hat geholfen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "kennen",
     "pastTense": "kannte",
-    "presentPerfect": "gekannt"
+    "presentPerfect": "gekannt",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "klimmen",
     "pastTense": "klomm",
-    "presentPerfect": "geklommen"
+    "presentPerfect": "geklommen",
+    "frequency": "infrequent",
+    "translation": "test"
   },
   {
     "infinitive": "klingen",
     "pastTense": "klang",
-    "presentPerfect": "geklungen"
+    "presentPerfect": "geklungen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "kneifen",
     "pastTense": "kniff",
-    "presentPerfect": "gekniffen"
+    "presentPerfect": "gekniffen",
+    "frequency": "infrequent",
+    "translation": "test"
   },
   {
     "infinitive": "kommen",
     "pastTense": "kam",
-    "presentPerfect": "gekommen"
+    "presentPerfect": "gekommen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "kriechen",
     "pastTense": "kroch",
-    "presentPerfect": "gekrochen"
+    "presentPerfect": "gekrochen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "laden",
     "pastTense": "lud",
-    "presentPerfect": "geladen"
+    "presentPerfect": "geladen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "lassen",
     "pastTense": "ließ",
-    "presentPerfect": "gelassen"
+    "presentPerfect": "gelassen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "laufen",
     "pastTense": "lief",
-    "presentPerfect": "gelaufen"
+    "presentPerfect": "gelaufen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "leiden",
     "pastTense": "litt",
-    "presentPerfect": "gelitten"
+    "presentPerfect": "gelitten",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "leihen",
     "pastTense": "lieh",
-    "presentPerfect": "geliehen"
+    "presentPerfect": "geliehen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "lesen",
     "pastTense": "las",
-    "presentPerfect": "gelesen"
+    "presentPerfect": "gelesen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "liegen",
     "pastTense": "lag",
-    "presentPerfect": "gelegen"
+    "presentPerfect": "gelegen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "lügen",
     "pastTense": "log",
-    "presentPerfect": "gelogen"
+    "presentPerfect": "gelogen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "mahlen",
     "pastTense": "mahlte",
-    "presentPerfect": "gemahlen"
+    "presentPerfect": "gemahlen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "meiden",
     "pastTense": "mied",
-    "presentPerfect": "gemieden"
+    "presentPerfect": "gemieden",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "melken",
     "pastTense": "melkte (molk)",
-    "presentPerfect": "gemelkt (gemolken)"
+    "presentPerfect": "gemelkt (gemolken)",
+    "frequency": "infrequent",
+    "translation": "test"
   },
   {
     "infinitive": "messen",
     "pastTense": "maß",
-    "presentPerfect": "gemessen"
+    "presentPerfect": "gemessen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "misslingen",
     "pastTense": "misslang",
-    "presentPerfect": "misslungen"
+    "presentPerfect": "misslungen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "nehmen",
     "pastTense": "nahm",
-    "presentPerfect": "genommen"
+    "presentPerfect": "genommen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "nennen",
     "pastTense": "nannte",
-    "presentPerfect": "genannt"
+    "presentPerfect": "genannt",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "pfeifen",
     "pastTense": "pfiff",
-    "presentPerfect": "gepfiffen"
+    "presentPerfect": "gepfiffen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "preisen",
     "pastTense": "pries",
-    "presentPerfect": "gepriesen"
+    "presentPerfect": "gepriesen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "quellen",
     "pastTense": "quoll",
-    "presentPerfect": "gequollen"
+    "presentPerfect": "gequollen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "raten",
     "pastTense": "riet",
-    "presentPerfect": "geraten"
+    "presentPerfect": "geraten",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "reiben",
     "pastTense": "rieb",
-    "presentPerfect": "gerieben"
+    "presentPerfect": "gerieben",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "reißen",
     "pastTense": "riss",
-    "presentPerfect": "gerissen"
+    "presentPerfect": "gerissen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "reiten",
     "pastTense": "ritt",
-    "presentPerfect": "geritten"
+    "presentPerfect": "geritten",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "rennen",
     "pastTense": "rannte",
-    "presentPerfect": "gerannt"
+    "presentPerfect": "gerannt",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "riechen",
     "pastTense": "roch",
-    "presentPerfect": "gerochen"
+    "presentPerfect": "gerochen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "ringen",
     "pastTense": "rang",
-    "presentPerfect": "gerungen"
+    "presentPerfect": "gerungen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "rinnen",
     "pastTense": "rann",
-    "presentPerfect": "geronnen"
+    "presentPerfect": "geronnen",
+    "frequency": "infrequent",
+    "translation": "test"
   },
   {
     "infinitive": "rufen",
     "pastTense": "rief",
-    "presentPerfect": "gerufen"
+    "presentPerfect": "gerufen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "salzen",
     "pastTense": "salzte",
-    "presentPerfect": "gesalzen (gesalzt)"
+    "presentPerfect": "gesalzen (gesalzt)",
+    "frequency": "infrequent",
+    "translation": "test"
   },
   {
     "infinitive": "saufen",
     "pastTense": "soff",
-    "presentPerfect": "gesoffen"
+    "presentPerfect": "gesoffen",
+    "frequency": "infrequent",
+    "translation": "test"
   },
   {
     "infinitive": "saugen",
     "pastTense": "saugte (sog)",
-    "presentPerfect": "gesaugt (gesogen)"
+    "presentPerfect": "gesaugt (gesogen)",
+    "frequency": "infrequent",
+    "translation": "test"
   },
   {
     "infinitive": "schaffen",
     "pastTense": "schuf",
-    "presentPerfect": "geschaffen"
+    "presentPerfect": "geschaffen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "scheiden",
     "pastTense": "schied",
-    "presentPerfect": "geschieden"
+    "presentPerfect": "geschieden",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "scheinen",
     "pastTense": "schien",
-    "presentPerfect": "geschienen"
+    "presentPerfect": "geschienen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "scheißen",
     "pastTense": "schiss",
-    "presentPerfect": "geschissen"
+    "presentPerfect": "geschissen",
+    "frequency": "infrequent",
+    "translation": "test"
   },
   {
     "infinitive": "schelten",
     "pastTense": "schalt",
-    "presentPerfect": "gescholten"
+    "presentPerfect": "gescholten",
+    "frequency": "infrequent",
+    "translation": "test"
   },
   {
     "infinitive": "scheren",
     "pastTense": "schor",
-    "presentPerfect": "geschoren"
+    "presentPerfect": "geschoren",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "schieben",
     "pastTense": "schob",
-    "presentPerfect": "geschoben"
+    "presentPerfect": "geschoben",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "schießen",
     "pastTense": "schoss",
-    "presentPerfect": "geschossen"
+    "presentPerfect": "geschossen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "schlafen",
     "pastTense": "schlief",
-    "presentPerfect": "geschlafen"
+    "presentPerfect": "geschlafen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "schlagen",
     "pastTense": "schlug",
-    "presentPerfect": "geschlagen"
+    "presentPerfect": "geschlagen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "schleichen",
     "pastTense": "schlich",
-    "presentPerfect": "geschlichen"
+    "presentPerfect": "geschlichen",
+    "frequency": "infrequent",
+    "translation": "test"
   },
   {
     "infinitive": "schleifen",
     "pastTense": "schliff",
-    "presentPerfect": "geschliffen"
+    "presentPerfect": "geschliffen",
+    "frequency": "infrequent",
+    "translation": "test"
   },
   {
     "infinitive": "schließen",
     "pastTense": "schloss",
-    "presentPerfect": "geschlossen"
+    "presentPerfect": "geschlossen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "schlingen",
     "pastTense": "schlang",
-    "presentPerfect": "geschlungen"
+    "presentPerfect": "geschlungen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "schmeißen",
     "pastTense": "schmiss",
-    "presentPerfect": "geschmissen"
+    "presentPerfect": "geschmissen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "schmelzen",
     "pastTense": "schmolz",
-    "presentPerfect": "geschmolzen"
+    "presentPerfect": "geschmolzen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "schneiden",
     "pastTense": "schnitt",
-    "presentPerfect": "geschnitten"
+    "presentPerfect": "geschnitten",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "schreiben",
     "pastTense": "schrieb",
-    "presentPerfect": "geschrieben"
+    "presentPerfect": "geschrieben",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "schreien",
     "pastTense": "schrie",
-    "presentPerfect": "geschrie(e)n"
+    "presentPerfect": "geschrie(e)n",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "schreiten",
     "pastTense": "schritt",
-    "presentPerfect": "geschritten"
+    "presentPerfect": "geschritten",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "schweigen",
     "pastTense": "schwieg",
-    "presentPerfect": "geschwiegen"
+    "presentPerfect": "geschwiegen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "schwellen",
     "pastTense": "schwoll",
-    "presentPerfect": "geschwollen"
+    "presentPerfect": "geschwollen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "schwimmen",
     "pastTense": "schwamm",
-    "presentPerfect": "geschwommen"
+    "presentPerfect": "geschwommen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "schwingen",
     "pastTense": "schwang",
-    "presentPerfect": "geschwungen"
+    "presentPerfect": "geschwungen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "schwören",
     "pastTense": "schwor",
-    "presentPerfect": "geschworen"
+    "presentPerfect": "geschworen",
+    "frequency": "infrequent",
+    "translation": "test"
   },
   {
     "infinitive": "sehen",
     "pastTense": "sah",
-    "presentPerfect": "gesehen"
+    "presentPerfect": "gesehen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "senden",
     "pastTense": "sandte",
-    "presentPerfect": "gesandt"
+    "presentPerfect": "gesandt",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "singen",
     "pastTense": "sang",
-    "presentPerfect": "gesungen"
+    "presentPerfect": "gesungen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "sinken",
     "pastTense": "sank",
-    "presentPerfect": "gesunken"
+    "presentPerfect": "gesunken",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "sinnen",
     "pastTense": "sann",
-    "presentPerfect": "gesonnen"
+    "presentPerfect": "gesonnen",
+    "frequency": "infrequent",
+    "translation": "test"
   },
   {
     "infinitive": "sitzen",
     "pastTense": "saß",
-    "presentPerfect": "gesessen"
+    "presentPerfect": "gesessen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "spalten",
     "pastTense": "spaltete",
-    "presentPerfect": "gespalten"
+    "presentPerfect": "gespalten",
+    "frequency": "infrequent",
+    "translation": "test"
   },
   {
     "infinitive": "speien",
     "pastTense": "spie",
-    "presentPerfect": "gespie(e)n"
+    "presentPerfect": "gespie(e)n",
+    "frequency": "infrequent",
+    "translation": "test"
   },
   {
     "infinitive": "spinnen",
     "pastTense": "spann",
-    "presentPerfect": "gesponnen"
+    "presentPerfect": "gesponnen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "sprechen",
     "pastTense": "sprach",
-    "presentPerfect": "gesprochen"
+    "presentPerfect": "gesprochen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "sprießen",
     "pastTense": "spross",
-    "presentPerfect": "gesprossen"
+    "presentPerfect": "gesprossen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "springen",
     "pastTense": "sprang",
-    "presentPerfect": "gesprungen"
+    "presentPerfect": "gesprungen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "stechen",
     "pastTense": "stach",
-    "presentPerfect": "gestochen"
+    "presentPerfect": "gestochen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "stehen",
     "pastTense": "stand",
-    "presentPerfect": "gestanden"
+    "presentPerfect": "gestanden",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "stehlen",
     "pastTense": "stahl",
-    "presentPerfect": "gestohlen"
+    "presentPerfect": "gestohlen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "steigen",
     "pastTense": "stieg",
-    "presentPerfect": "gestiegen"
+    "presentPerfect": "gestiegen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "sterben",
     "pastTense": "starb",
-    "presentPerfect": "gestorben"
+    "presentPerfect": "gestorben",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "stieben",
     "pastTense": "stob",
-    "presentPerfect": "gestoben"
+    "presentPerfect": "gestoben",
+    "frequency": "infrequent",
+    "translation": "test"
   },
   {
     "infinitive": "stinken",
     "pastTense": "stank",
-    "presentPerfect": "gestunken"
+    "presentPerfect": "gestunken",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "stoßen",
     "pastTense": "stieß",
-    "presentPerfect": "gestoßen"
+    "presentPerfect": "gestoßen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "streichen",
     "pastTense": "strich",
-    "presentPerfect": "gestrichen"
+    "presentPerfect": "gestrichen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "streiten",
     "pastTense": "stritt",
-    "presentPerfect": "gestritten"
+    "presentPerfect": "gestritten",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "tragen",
     "pastTense": "trug",
-    "presentPerfect": "getragen"
+    "presentPerfect": "getragen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "treffen",
     "pastTense": "traf",
-    "presentPerfect": "getroffen"
+    "presentPerfect": "getroffen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "treiben",
     "pastTense": "trieb",
-    "presentPerfect": "getrieben"
+    "presentPerfect": "getrieben",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "treten",
     "pastTense": "trat",
-    "presentPerfect": "getreten"
+    "presentPerfect": "getreten",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "trinken",
     "pastTense": "trank",
-    "presentPerfect": "getrunken"
+    "presentPerfect": "getrunken",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "trügen",
     "pastTense": "trug",
-    "presentPerfect": "getrogen"
+    "presentPerfect": "getrogen",
+    "frequency": "infrequent",
+    "translation": "test"
   },
   {
     "infinitive": "tun",
     "pastTense": "tat",
-    "presentPerfect": "getan"
+    "presentPerfect": "getan",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "verbleichen",
     "pastTense": "verblich",
-    "presentPerfect": "verblichen"
+    "presentPerfect": "verblichen",
+    "frequency": "infrequent",
+    "translation": "test"
   },
   {
     "infinitive": "verderben",
     "pastTense": "verdarb",
-    "presentPerfect": "verdorben"
+    "presentPerfect": "verdorben",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "verdrießen",
     "pastTense": "verdross",
-    "presentPerfect": "verdrossen"
+    "presentPerfect": "verdrossen",
+    "frequency": "infrequent",
+    "translation": "test"
   },
   {
     "infinitive": "vergessen",
     "pastTense": "vergaß",
-    "presentPerfect": "vergessen"
+    "presentPerfect": "vergessen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "verlieren",
     "pastTense": "verlor",
-    "presentPerfect": "verloren"
+    "presentPerfect": "verloren",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "verschwinden",
     "pastTense": "verschwand",
-    "presentPerfect": "verschwunden"
+    "presentPerfect": "verschwunden",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "verzeihen",
     "pastTense": "verzieh",
-    "presentPerfect": "verziehen"
+    "presentPerfect": "verziehen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "wachsen",
     "pastTense": "wuchs",
-    "presentPerfect": "gewachsen"
+    "presentPerfect": "gewachsen",
+    "frequency": "infrequent",
+    "translation": "test"
   },
   {
     "infinitive": "waschen",
     "pastTense": "wusch",
-    "presentPerfect": "gewaschen"
+    "presentPerfect": "gewaschen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "weichen",
     "pastTense": "wich",
-    "presentPerfect": "gewichen"
+    "presentPerfect": "gewichen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "weisen",
     "pastTense": "wies",
-    "presentPerfect": "gewiesen"
+    "presentPerfect": "gewiesen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "wenden",
     "pastTense": "wandte",
-    "presentPerfect": "gewandt"
+    "presentPerfect": "gewandt",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "werben",
     "pastTense": "warb",
-    "presentPerfect": "geworben"
+    "presentPerfect": "geworben",
+    "frequency": "infrequent",
+    "translation": "test"
   },
   {
     "infinitive": "werfen",
     "pastTense": "warf",
-    "presentPerfect": "geworfen"
+    "presentPerfect": "geworfen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "wiegen",
     "pastTense": "wog",
-    "presentPerfect": "gewogen"
+    "presentPerfect": "gewogen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "winden",
     "pastTense": "wand",
-    "presentPerfect": "gewunden"
+    "presentPerfect": "gewunden",
+    "frequency": "infrequent",
+    "translation": "test"
   },
   {
     "infinitive": "wissen",
     "pastTense": "wusste",
-    "presentPerfect": "gewusst"
+    "presentPerfect": "gewusst",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "wringen",
     "pastTense": "wrang",
-    "presentPerfect": "gewrungen"
+    "presentPerfect": "gewrungen",
+    "frequency": "infrequent",
+    "translation": "test"
   },
   {
     "infinitive": "ziehen",
     "pastTense": "zog",
-    "presentPerfect": "gezogen"
+    "presentPerfect": "gezogen",
+    "frequency": "frequent",
+    "translation": "test"
   },
   {
     "infinitive": "zwingen",
     "pastTense": "zwang",
-    "presentPerfect": "gezwungen"
+    "presentPerfect": "gezwungen",
+    "frequency": "frequent",
+    "translation": "test"
   }
 ]
