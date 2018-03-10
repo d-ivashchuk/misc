@@ -1,7 +1,7 @@
 [
   {
     "infinitive": "backen",
-    "pastTense": "backte (buk)",
+    "pastTense": "buk",
     "presentPerfect": "gebacken",
     "frequency": "frequent",
     "translation": "to bake"
@@ -176,8 +176,8 @@
   },
   {
     "infinitive": "erbleichen",
-    "pastTense": "erbleichte (erblich)",
-    "presentPerfect": "erbleichte (erblichen)",
+    "pastTense": "erblich",
+    "presentPerfect": "erblichen",
     "frequency": "infrequent",
     "translation": "to turn pale"
   },
@@ -421,7 +421,7 @@
   },
   {
     "infinitive": "hauen",
-    "pastTense": "haute (hieb)",
+    "pastTense": "hieb",
     "presentPerfect": "gehauen",
     "frequency": "frequent",
     "translation": "to hit"
@@ -443,7 +443,7 @@
   {
     "infinitive": "helfen",
     "pastTense": "half",
-    "presentPerfect": "hat geholfen",
+    "presentPerfect": "geholfen",
     "frequency": "frequent",
     "translation": "to help"
   },
@@ -561,8 +561,8 @@
   },
   {
     "infinitive": "melken",
-    "pastTense": "melkte (molk)",
-    "presentPerfect": "gemelkt (gemolken)",
+    "pastTense": "molk",
+    "presentPerfect": "gemolken",
     "frequency": "infrequent",
     "translation": "to milk"
   },
@@ -681,7 +681,7 @@
   {
     "infinitive": "salzen",
     "pastTense": "salzte",
-    "presentPerfect": "gesalzen (gesalzt)",
+    "presentPerfect": "gesalzt",
     "frequency": "infrequent",
     "translation": "to salt"
   },
@@ -694,8 +694,8 @@
   },
   {
     "infinitive": "saugen",
-    "pastTense": "saugte (sog)",
-    "presentPerfect": "gesaugt (gesogen)",
+    "pastTense": "sog",
+    "presentPerfect": "gesogen",
     "frequency": "infrequent",
     "translation": "to suck"
   },

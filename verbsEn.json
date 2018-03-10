@@ -15,7 +15,7 @@
     "infinitive": "beget",
     "pastTense": "begot",
     "presentPerfect": "begot",
-    "frequency": "frequent"
+    "frequency": "infrequent"
   },
   {
     "infinitive": "begin",
@@ -47,7 +47,7 @@
     "infinitive": "bide",
     "pastTense": "bode",
     "presentPerfect": "bidden",
-    "frequency": "frequent"
+    "frequency": "infrequent"
   },
   {
     "infinitive": "bind",
@@ -138,13 +138,13 @@
     "infinitive": "clad",
     "pastTense": "clad",
     "presentPerfect": "clad",
-    "frequency": "frequent"
+    "frequency": "infrequent"
   },
   {
     "infinitive": "cleave",
     "pastTense": "clove",
     "presentPerfect": "cloven",
-    "frequency": "frequent"
+    "frequency": "infrequent"
   },
   {
     "infinitive": "cling",
@@ -370,8 +370,8 @@
   {
     "infinitive": "hew",
     "pastTense": "hewed",
-    "presentPerfect": "hewn/hewed",
-    "frequency": "frequent"
+    "presentPerfect": "hewed",
+    "frequency": "infrequent"
   },
   {
     "infinitive": "hide",
@@ -387,9 +387,9 @@
   },
   {
     "infinitive": "hoist",
-    "pastTense": "hoist/hoisted",
-    "presentPerfect": "hoist/hoisted",
-    "frequency": "frequent"
+    "pastTense": "hoist",
+    "presentPerfect": "hoist",
+    "frequency": "infrequent"
   },
   {
     "infinitive": "hold",
@@ -556,7 +556,7 @@
     "infinitive": "rend",
     "pastTense": "rent",
     "presentPerfect": "rent",
-    "frequency": "frequent"
+    "frequency": "infrequent"
   },
   {
     "infinitive": "rid",
@@ -634,7 +634,7 @@
     "infinitive": "sew",
     "pastTense": "sewed",
     "presentPerfect": "sewn",
-    "frequency": "frequent"
+    "frequency": "infrequent"
   },
   {
     "infinitive": "shake",
@@ -647,7 +647,7 @@
     "infinitive": "shear",
     "pastTense": "shore",
     "presentPerfect": "shorn",
-    "frequency": "frequent"
+    "frequency": "infrequent"
   },
   {
     "infinitive": "shed",
@@ -671,7 +671,7 @@
     "infinitive": "shoe",
     "pastTense": "shod",
     "presentPerfect": "shod",
-    "frequency": "frequent"
+    "frequency": "infrequent"
   },
   {
     "infinitive": "shoot",
@@ -871,18 +871,18 @@
     "infinitive": "strew",
     "pastTense": "strewed",
     "presentPerfect": "strewn",
-    "frequency": "frequent"
+    "frequency": "infrequent"
   },
   {
     "infinitive": "stride",
     "pastTense": "strode",
     "presentPerfect": "stridden",
-    "frequency": "frequent"
+    "frequency": "infrequent"
   },
   {
     "infinitive": "strike",
     "pastTense": "struck",
-    "presentPerfect": "struck/stricken",
+    "presentPerfect": "stricken",
     "frequency": "frequent"
   },
   {
@@ -893,8 +893,8 @@
   },
   {
     "infinitive": "strive",
-    "pastTense": "strove/strived",
-    "presentPerfect": "striven/strived",
+    "pastTense": "strove",
+    "presentPerfect": "striven",
     "frequency": "frequent"
   },
   {
