@@ -5,7 +5,7 @@
     "presentPerfect": "gebacken",
     "frequency": "frequent",
     "translationEn": "to bake",
-    "translationRus": "asd"
+    "translationRus": "печь"
   },
   {
     "infinitive": "befehlen",
@@ -13,7 +13,7 @@
     "presentPerfect": "befohlen",
     "frequency": "frequent",
     "translationEn": "to order",
-    "translationRus": "asd"
+    "translationRus": "приказывать"
   },
   {
     "infinitive": "beginnen",
@@ -21,7 +21,7 @@
     "presentPerfect": "begonnen",
     "frequency": "frequent",
     "translationEn": "to begin",
-    "translationRus": "asd"
+    "translationRus": "начинать"
   },
   {
     "infinitive": "beißen",
@@ -29,15 +29,15 @@
     "presentPerfect": "gebissen",
     "frequency": "frequent",
     "translationEn": "to bite",
-    "translationRus": "asd"
+    "translationRus": "кусать"
   },
   {
     "infinitive": "bergen",
     "pastTense": "barg",
     "presentPerfect": "geborgen",
     "frequency": "infrequent",
-    "translationEn": "to recover",
-    "translationRus": "asd"
+    "translationEn": "to save",
+    "translationRus": "спасать"
   },
   {
     "infinitive": "bersten",
@@ -45,7 +45,7 @@
     "presentPerfect": "geborsten",
     "frequency": "infrequent",
     "translationEn": "to burst",
-    "translationRus": "asd"
+    "translationRus": "лопать"
   },
   {
     "infinitive": "betrügen",
@@ -53,7 +53,7 @@
     "presentPerfect": "betrogen",
     "frequency": "frequent",
     "translationEn": "to cheat",
-    "translationRus": "asd"
+    "translationRus": "обманывать"
   },
   {
     "infinitive": "bewegen",
@@ -61,7 +61,7 @@
     "presentPerfect": "bewogen",
     "frequency": "frequent",
     "translationEn": "to move",
-    "translationRus": "asd"
+    "translationRus": "двигать"
   },
   {
     "infinitive": "biegen",
@@ -69,7 +69,7 @@
     "presentPerfect": "gebogen",
     "frequency": "frequent",
     "translationEn": "to bend",
-    "translationRus": "asd"
+    "translationRus": "гнуть"
   },
   {
     "infinitive": "bieten",
@@ -77,7 +77,7 @@
     "presentPerfect": "geboten",
     "frequency": "frequent",
     "translationEn": "to offer",
-    "translationRus": "asd"
+    "translationRus": "предлагать"
   },
   {
     "infinitive": "binden",
@@ -85,7 +85,7 @@
     "presentPerfect": "gebunden",
     "frequency": "frequent",
     "translationEn": "to bind",
-    "translationRus": "asd"
+    "translationRus": "связывать"
   },
   {
     "infinitive": "bitten",
@@ -93,7 +93,7 @@
     "presentPerfect": "gebeten",
     "frequency": "frequent",
     "translationEn": "to ask",
-    "translationRus": "asd"
+    "translationRus": "просить"
   },
   {
     "infinitive": "blasen",
@@ -101,7 +101,7 @@
     "presentPerfect": "geblasen",
     "frequency": "frequent",
     "translationEn": "to blow",
-    "translationRus": "asd"
+    "translationRus": "дуть"
   },
   {
     "infinitive": "bleiben",
@@ -109,7 +109,7 @@
     "presentPerfect": "geblieben",
     "frequency": "frequent",
     "translationEn": "to stay",
-    "translationRus": "asd"
+    "translationRus": "оставаться"
   },
   {
     "infinitive": "braten",
@@ -117,7 +117,7 @@
     "presentPerfect": "gebraten",
     "frequency": "frequent",
     "translationEn": "to roast",
-    "translationRus": "asd"
+    "translationRus": "жарить"
   },
   {
     "infinitive": "brechen",
@@ -125,7 +125,7 @@
     "presentPerfect": "gebrochen",
     "frequency": "frequent",
     "translationEn": "to break",
-    "translationRus": "asd"
+    "translationRus": "разбивать"
   },
   {
     "infinitive": "brennen",
@@ -133,7 +133,7 @@
     "presentPerfect": "gebrannt",
     "frequency": "frequent",
     "translationEn": "to burn",
-    "translationRus": "asd"
+    "translationRus": "жечь"
   },
   {
     "infinitive": "bringen",
@@ -141,7 +141,7 @@
     "presentPerfect": "gebracht",
     "frequency": "frequent",
     "translationEn": "to bring",
-    "translationRus": "asd"
+    "translationRus": "приносить"
   },
   {
     "infinitive": "denken",
@@ -149,7 +149,7 @@
     "presentPerfect": "gedacht",
     "frequency": "frequent",
     "translationEn": "to think",
-    "translationRus": "asd"
+    "translationRus": "думать"
   },
   {
     "infinitive": "dingen",
@@ -157,7 +157,7 @@
     "presentPerfect": "gedungen",
     "frequency": "infrequent",
     "translationEn": "to hire",
-    "translationRus": "asd"
+    "translationRus": "нанимать"
   },
   {
     "infinitive": "dreschen",
@@ -165,7 +165,7 @@
     "presentPerfect": "gedroschen",
     "frequency": "infrequent",
     "translationEn": "to thresh",
-    "translationRus": "asd"
+    "translationRus": "молотить"
   },
   {
     "infinitive": "dringen",
@@ -173,7 +173,7 @@
     "presentPerfect": "gedrungen",
     "frequency": "frequent",
     "translationEn": "to insist",
-    "translationRus": "asd"
+    "translationRus": "настаивать"
   },
   {
     "infinitive": "empfangen",
@@ -181,7 +181,7 @@
     "presentPerfect": "empfangen",
     "frequency": "frequent",
     "translationEn": "to receive",
-    "translationRus": "asd"
+    "translationRus": "получать"
   },
   {
     "infinitive": "empfehlen",
@@ -189,7 +189,7 @@
     "presentPerfect": "empfohlen",
     "frequency": "frequent",
     "translationEn": "to recommend",
-    "translationRus": "asd"
+    "translationRus": "рекомендовать"
   },
   {
     "infinitive": "empfinden",
@@ -197,7 +197,7 @@
     "presentPerfect": "empfunden",
     "frequency": "frequent",
     "translationEn": "to feel",
-    "translationRus": "asd"
+    "translationRus": "чувствовать"
   },
   {
     "infinitive": "erbleichen",
@@ -205,7 +205,7 @@
     "presentPerfect": "erblichen",
     "frequency": "infrequent",
     "translationEn": "to turn pale",
-    "translationRus": "asd"
+    "translationRus": "бледнеть"
   },
   {
     "infinitive": "erlöschen",
@@ -213,7 +213,7 @@
     "presentPerfect": "erloschen",
     "frequency": "infrequent",
     "translationEn": "to cease",
-    "translationRus": "asd"
+    "translationRus": "останавливать"
   },
   {
     "infinitive": "erschrecken",
@@ -221,7 +221,7 @@
     "presentPerfect": "erschrocken",
     "frequency": "frequent",
     "translationEn": "to frighten",
-    "translationRus": "asd"
+    "translationRus": "пугать"
   },
   {
     "infinitive": "erwägen",
@@ -229,7 +229,7 @@
     "presentPerfect": "erwogen",
     "frequency": "infrequent",
     "translationEn": "to consider",
-    "translationRus": "asd"
+    "translationRus": "обдумывать"
   },
   {
     "infinitive": "essen",
@@ -237,7 +237,7 @@
     "presentPerfect": "gegessen",
     "frequency": "frequent",
     "translationEn": "to eat",
-    "translationRus": "asd"
+    "translationRus": "есть"
   },
   {
     "infinitive": "fahren",
@@ -245,7 +245,7 @@
     "presentPerfect": "gefahren",
     "frequency": "frequent",
     "translationEn": "to drive",
-    "translationRus": "asd"
+    "translationRus": "ехать"
   },
   {
     "infinitive": "fallen",
@@ -253,7 +253,7 @@
     "presentPerfect": "gefallen",
     "frequency": "frequent",
     "translationEn": "to fall",
-    "translationRus": "asd"
+    "translationRus": "падать"
   },
   {
     "infinitive": "fangen",
@@ -261,7 +261,7 @@
     "presentPerfect": "gefangen",
     "frequency": "frequent",
     "translationEn": "to catch",
-    "translationRus": "asd"
+    "translationRus": "ловить"
   },
   {
     "infinitive": "fechten",
@@ -269,7 +269,7 @@
     "presentPerfect": "gefochten",
     "frequency": "infrequent",
     "translationEn": "to fence",
-    "translationRus": "asd"
+    "translationRus": "фехтовать"
   },
   {
     "infinitive": "finden",
@@ -277,7 +277,7 @@
     "presentPerfect": "gefunden",
     "frequency": "frequent",
     "translationEn": "to find",
-    "translationRus": "asd"
+    "translationRus": "находить"
   },
   {
     "infinitive": "flechten",
@@ -285,7 +285,7 @@
     "presentPerfect": "geflochten",
     "frequency": "frequent",
     "translationEn": "to weave",
-    "translationRus": "asd"
+    "translationRus": "плести"
   },
   {
     "infinitive": "fliegen",
@@ -293,7 +293,7 @@
     "presentPerfect": "geflogen",
     "frequency": "frequent",
     "translationEn": "to fly",
-    "translationRus": "asd"
+    "translationRus": "лететь"
   },
   {
     "infinitive": "fliehen",
@@ -301,7 +301,7 @@
     "presentPerfect": "geflohen",
     "frequency": "frequent",
     "translationEn": "to flee",
-    "translationRus": "asd"
+    "translationRus": "бежать"
   },
   {
     "infinitive": "fließen",
@@ -309,7 +309,7 @@
     "presentPerfect": "geflossen",
     "frequency": "frequent",
     "translationEn": "to flow",
-    "translationRus": "asd"
+    "translationRus": "течь"
   },
   {
     "infinitive": "fressen",
@@ -317,7 +317,7 @@
     "presentPerfect": "gefressen",
     "frequency": "frequent",
     "translationEn": "to eat",
-    "translationRus": "asd"
+    "translationRus": "есть(животные)"
   },
   {
     "infinitive": "frieren",
@@ -325,7 +325,7 @@
     "presentPerfect": "gefroren",
     "frequency": "frequent",
     "translationEn": "to freeze",
-    "translationRus": "asd"
+    "translationRus": "замерзать"
   },
   {
     "infinitive": "gären",
@@ -333,7 +333,7 @@
     "presentPerfect": "gegoren",
     "frequency": "infrequent",
     "translationEn": "to brew",
-    "translationRus": "asd"
+    "translationRus": "бродить(процесс распада веществ)"
   },
   {
     "infinitive": "gebären",
@@ -341,7 +341,7 @@
     "presentPerfect": "geboren",
     "frequency": "frequent",
     "translationEn": "to give birth",
-    "translationRus": "asd"
+    "translationRus": "рожать"
   },
   {
     "infinitive": "geben",
@@ -349,7 +349,7 @@
     "presentPerfect": "gegeben",
     "frequency": "frequent",
     "translationEn": "to give",
-    "translationRus": "asd"
+    "translationRus": "давать"
   },
   {
     "infinitive": "gedeihen",
@@ -357,7 +357,7 @@
     "presentPerfect": "gediehen",
     "frequency": "infrequent",
     "translationEn": "to flourish",
-    "translationRus": "asd"
+    "translationRus": "процветать"
   },
   {
     "infinitive": "gehen",
@@ -365,7 +365,7 @@
     "presentPerfect": "gegangen",
     "frequency": "frequent",
     "translationEn": "to go",
-    "translationRus": "asd"
+    "translationRus": "идти"
   },
   {
     "infinitive": "gelingen",
@@ -373,7 +373,7 @@
     "presentPerfect": "gelungen",
     "frequency": "frequent",
     "translationEn": "to succeed",
-    "translationRus": "asd"
+    "translationRus": "удаваться"
   },
   {
     "infinitive": "gelten",
@@ -381,7 +381,7 @@
     "presentPerfect": "gegolten",
     "frequency": "frequent",
     "translationEn": "to be valid",
-    "translationRus": "asd"
+    "translationRus": "быть достаточным"
   },
   {
     "infinitive": "genesen",
@@ -389,7 +389,7 @@
     "presentPerfect": "genesen",
     "frequency": "infrequent",
     "translationEn": "to recover",
-    "translationRus": "asd"
+    "translationRus": "выздоравливать"
   },
   {
     "infinitive": "genießen",
@@ -397,7 +397,7 @@
     "presentPerfect": "genossen",
     "frequency": "frequent",
     "translationEn": "to enjoy",
-    "translationRus": "asd"
+    "translationRus": "наслаждаться"
   },
   {
     "infinitive": "geschehen",
@@ -405,7 +405,7 @@
     "presentPerfect": "geschehen",
     "frequency": "frequent",
     "translationEn": "to occur",
-    "translationRus": "asd"
+    "translationRus": "случаться"
   },
   {
     "infinitive": "gewinnen",
@@ -413,7 +413,7 @@
     "presentPerfect": "gewonnen",
     "frequency": "frequent",
     "translationEn": "to win",
-    "translationRus": "asd"
+    "translationRus": "выигрывать"
   },
   {
     "infinitive": "gießen",
@@ -421,7 +421,7 @@
     "presentPerfect": "gegossen",
     "frequency": "frequent",
     "translationEn": "to water",
-    "translationRus": "asd"
+    "translationRus": "поливать"
   },
   {
     "infinitive": "gleichen",
@@ -429,7 +429,7 @@
     "presentPerfect": "geglichen",
     "frequency": "infrequent",
     "translationEn": "to equal",
-    "translationRus": "asd"
+    "translationRus": "равняться"
   },
   {
     "infinitive": "gleiten",
@@ -437,7 +437,7 @@
     "presentPerfect": "geglitten",
     "frequency": "frequent",
     "translationEn": "to slide",
-    "translationRus": "asd"
+    "translationRus": "скользить"
   },
   {
     "infinitive": "glimmen",
@@ -445,7 +445,7 @@
     "presentPerfect": "geglommen",
     "frequency": "infrequent",
     "translationEn": "to glow",
-    "translationRus": "asd"
+    "translationRus": "светиться"
   },
   {
     "infinitive": "graben",
@@ -453,7 +453,7 @@
     "presentPerfect": "gegraben",
     "frequency": "frequent",
     "translationEn": "to dig",
-    "translationRus": "asd"
+    "translationRus": "рыть"
   },
   {
     "infinitive": "greifen",
@@ -461,7 +461,7 @@
     "presentPerfect": "gegriffen",
     "frequency": "frequent",
     "translationEn": "to grab",
-    "translationRus": "asd"
+    "translationRus": "хватать"
   },
   {
     "infinitive": "halten",
@@ -469,7 +469,7 @@
     "presentPerfect": "gehalten",
     "frequency": "frequent",
     "translationEn": "to stop",
-    "translationRus": "asd"
+    "translationRus": "останавливаться"
   },
   {
     "infinitive": "hängen",
@@ -477,7 +477,7 @@
     "presentPerfect": "gehangen",
     "frequency": "frequent",
     "translationEn": "to hange",
-    "translationRus": "asd"
+    "translationRus": "висеть"
   },
   {
     "infinitive": "hauen",
@@ -485,7 +485,7 @@
     "presentPerfect": "gehauen",
     "frequency": "frequent",
     "translationEn": "to hit",
-    "translationRus": "asd"
+    "translationRus": "бить"
   },
   {
     "infinitive": "heben",
@@ -493,7 +493,7 @@
     "presentPerfect": "gehoben",
     "frequency": "frequent",
     "translationEn": "to raise",
-    "translationRus": "asd"
+    "translationRus": "подниматься"
   },
   {
     "infinitive": "heißen",
@@ -501,7 +501,7 @@
     "presentPerfect": "geheißen",
     "frequency": "frequent",
     "translationEn": "to be called",
-    "translationRus": "asd"
+    "translationRus": "называться"
   },
   {
     "infinitive": "helfen",
@@ -509,7 +509,7 @@
     "presentPerfect": "geholfen",
     "frequency": "frequent",
     "translationEn": "to help",
-    "translationRus": "asd"
+    "translationRus": "помогать"
   },
   {
     "infinitive": "kennen",
@@ -517,7 +517,7 @@
     "presentPerfect": "gekannt",
     "frequency": "frequent",
     "translationEn": "to know",
-    "translationRus": "asd"
+    "translationRus": "знать"
   },
   {
     "infinitive": "klimmen",
@@ -525,15 +525,15 @@
     "presentPerfect": "geklommen",
     "frequency": "infrequent",
     "translationEn": "to climb",
-    "translationRus": "asd"
+    "translationRus": "забираться"
   },
   {
     "infinitive": "klingen",
     "pastTense": "klang",
     "presentPerfect": "geklungen",
     "frequency": "frequent",
-    "translationEn": "to springen",
-    "translationRus": "asd"
+    "translationEn": "to sound",
+    "translationRus": "звучать"
   },
   {
     "infinitive": "kneifen",
@@ -541,7 +541,7 @@
     "presentPerfect": "gekniffen",
     "frequency": "infrequent",
     "translationEn": "to pinch",
-    "translationRus": "asd"
+    "translationRus": "ущипнуть"
   },
   {
     "infinitive": "kommen",
@@ -549,7 +549,7 @@
     "presentPerfect": "gekommen",
     "frequency": "frequent",
     "translationEn": "to come",
-    "translationRus": "asd"
+    "translationRus": "приходить"
   },
   {
     "infinitive": "kriechen",
@@ -557,7 +557,7 @@
     "presentPerfect": "gekrochen",
     "frequency": "frequent",
     "translationEn": "to creep",
-    "translationRus": "asd"
+    "translationRus": "ползать"
   },
   {
     "infinitive": "laden",
@@ -565,7 +565,7 @@
     "presentPerfect": "geladen",
     "frequency": "frequent",
     "translationEn": "to invite",
-    "translationRus": "asd"
+    "translationRus": "приглашать"
   },
   {
     "infinitive": "lassen",
@@ -573,7 +573,7 @@
     "presentPerfect": "gelassen",
     "frequency": "frequent",
     "translationEn": "to let",
-    "translationRus": "asd"
+    "translationRus": "позволять"
   },
   {
     "infinitive": "laufen",
@@ -581,7 +581,7 @@
     "presentPerfect": "gelaufen",
     "frequency": "frequent",
     "translationEn": "to run",
-    "translationRus": "asd"
+    "translationRus": "бежать"
   },
   {
     "infinitive": "leiden",
@@ -589,7 +589,7 @@
     "presentPerfect": "gelitten",
     "frequency": "frequent",
     "translationEn": "to suffer",
-    "translationRus": "asd"
+    "translationRus": "страдать"
   },
   {
     "infinitive": "leihen",
@@ -597,7 +597,7 @@
     "presentPerfect": "geliehen",
     "frequency": "frequent",
     "translationEn": "to lend",
-    "translationRus": "asd"
+    "translationRus": "отдалживать"
   },
   {
     "infinitive": "lesen",
@@ -605,7 +605,7 @@
     "presentPerfect": "gelesen",
     "frequency": "frequent",
     "translationEn": "to read",
-    "translationRus": "asd"
+    "translationRus": "читать"
   },
   {
     "infinitive": "liegen",
@@ -613,7 +613,7 @@
     "presentPerfect": "gelegen",
     "frequency": "frequent",
     "translationEn": "to lie",
-    "translationRus": "asd"
+    "translationRus": "лежать"
   },
   {
     "infinitive": "lügen",
@@ -621,7 +621,7 @@
     "presentPerfect": "gelogen",
     "frequency": "frequent",
     "translationEn": "to tell a lie",
-    "translationRus": "asd"
+    "translationRus": "врать"
   },
   {
     "infinitive": "mahlen",
@@ -629,7 +629,7 @@
     "presentPerfect": "gemahlen",
     "frequency": "frequent",
     "translationEn": "to grind",
-    "translationRus": "asd"
+    "translationRus": "молоть"
   },
   {
     "infinitive": "meiden",
@@ -637,7 +637,7 @@
     "presentPerfect": "gemieden",
     "frequency": "frequent",
     "translationEn": "to evade",
-    "translationRus": "asd"
+    "translationRus": "избегать"
   },
   {
     "infinitive": "melken",
@@ -645,7 +645,7 @@
     "presentPerfect": "gemolken",
     "frequency": "infrequent",
     "translationEn": "to milk",
-    "translationRus": "asd"
+    "translationRus": "доить"
   },
   {
     "infinitive": "messen",
@@ -653,7 +653,7 @@
     "presentPerfect": "gemessen",
     "frequency": "frequent",
     "translationEn": "to measure",
-    "translationRus": "asd"
+    "translationRus": "мерять"
   },
   {
     "infinitive": "misslingen",
@@ -661,7 +661,7 @@
     "presentPerfect": "misslungen",
     "frequency": "frequent",
     "translationEn": "to fail",
-    "translationRus": "asd"
+    "translationRus": "не удаваться"
   },
   {
     "infinitive": "nehmen",
@@ -676,7 +676,7 @@
     "presentPerfect": "genannt",
     "frequency": "frequent",
     "translationEn": "to call",
-    "translationRus": "asd"
+    "translationRus": "называть"
   },
   {
     "infinitive": "pfeifen",
@@ -684,7 +684,7 @@
     "presentPerfect": "gepfiffen",
     "frequency": "frequent",
     "translationEn": "to whistle",
-    "translationRus": "asd"
+    "translationRus": "свистеть"
   },
   {
     "infinitive": "preisen",
@@ -692,7 +692,7 @@
     "presentPerfect": "gepriesen",
     "frequency": "frequent",
     "translationEn": "to praise",
-    "translationRus": "asd"
+    "translationRus": "восхвалять"
   },
   {
     "infinitive": "quellen",
@@ -700,7 +700,7 @@
     "presentPerfect": "gequollen",
     "frequency": "frequent",
     "translationEn": "to well",
-    "translationRus": "asd"
+    "translationRus": "просачиваться"
   },
   {
     "infinitive": "raten",
@@ -708,7 +708,7 @@
     "presentPerfect": "geraten",
     "frequency": "frequent",
     "translationEn": "to advice",
-    "translationRus": "asd"
+    "translationRus": "советовать"
   },
   {
     "infinitive": "reiben",
@@ -716,7 +716,7 @@
     "presentPerfect": "gerieben",
     "frequency": "frequent",
     "translationEn": "to rub",
-    "translationRus": "asd"
+    "translationRus": "тереть"
   },
   {
     "infinitive": "reißen",
@@ -724,7 +724,7 @@
     "presentPerfect": "gerissen",
     "frequency": "frequent",
     "translationEn": "to rip",
-    "translationRus": "asd"
+    "translationRus": "рвать"
   },
   {
     "infinitive": "reiten",
@@ -732,7 +732,7 @@
     "presentPerfect": "geritten",
     "frequency": "frequent",
     "translationEn": "to ride",
-    "translationRus": "asd"
+    "translationRus": "ехать верхом"
   },
   {
     "infinitive": "rennen",
@@ -740,7 +740,7 @@
     "presentPerfect": "gerannt",
     "frequency": "frequent",
     "translationEn": "to run",
-    "translationRus": "asd"
+    "translationRus": "бежать"
   },
   {
     "infinitive": "riechen",
@@ -748,7 +748,7 @@
     "presentPerfect": "gerochen",
     "frequency": "frequent",
     "translationEn": "to smell",
-    "translationRus": "asd"
+    "translationRus": "нюхать"
   },
   {
     "infinitive": "ringen",
@@ -756,7 +756,7 @@
     "presentPerfect": "gerungen",
     "frequency": "frequent",
     "translationEn": "to fight",
-    "translationRus": "asd"
+    "translationRus": "драться на ринге"
   },
   {
     "infinitive": "rinnen",
@@ -764,7 +764,7 @@
     "presentPerfect": "geronnen",
     "frequency": "infrequent",
     "translationEn": "to leak",
-    "translationRus": "asd"
+    "translationRus": "давать течь"
   },
   {
     "infinitive": "rufen",
@@ -772,7 +772,7 @@
     "presentPerfect": "gerufen",
     "frequency": "frequent",
     "translationEn": "to call",
-    "translationRus": "asd"
+    "translationRus": "звать"
   },
   {
     "infinitive": "salzen",
@@ -780,7 +780,7 @@
     "presentPerfect": "gesalzt",
     "frequency": "infrequent",
     "translationEn": "to salt",
-    "translationRus": "asd"
+    "translationRus": "солить"
   },
   {
     "infinitive": "saufen",
@@ -788,7 +788,7 @@
     "presentPerfect": "gesoffen",
     "frequency": "infrequent",
     "translationEn": "to drink",
-    "translationRus": "asd"
+    "translationRus": "пить"
   },
   {
     "infinitive": "saugen",
@@ -796,7 +796,7 @@
     "presentPerfect": "gesogen",
     "frequency": "infrequent",
     "translationEn": "to suck",
-    "translationRus": "asd"
+    "translationRus": "сосать"
   },
   {
     "infinitive": "schaffen",
@@ -804,7 +804,7 @@
     "presentPerfect": "geschaffen",
     "frequency": "frequent",
     "translationEn": "to create",
-    "translationRus": "asd"
+    "translationRus": "создавать"
   },
   {
     "infinitive": "scheiden",
@@ -812,7 +812,7 @@
     "presentPerfect": "geschieden",
     "frequency": "frequent",
     "translationEn": "to depart",
-    "translationRus": "asd"
+    "translationRus": "расставаться"
   },
   {
     "infinitive": "scheinen",
@@ -820,15 +820,7 @@
     "presentPerfect": "geschienen",
     "frequency": "frequent",
     "translationEn": "to appear",
-    "translationRus": "asd"
-  },
-  {
-    "infinitive": "scheißen",
-    "pastTense": "schiss",
-    "presentPerfect": "geschissen",
-    "frequency": "infrequent",
-    "translationEn": "to shit",
-    "translationRus": "asd"
+    "translationRus": "появляться"
   },
   {
     "infinitive": "schelten",
@@ -836,7 +828,7 @@
     "presentPerfect": "gescholten",
     "frequency": "infrequent",
     "translationEn": "to scold",
-    "translationRus": "asd"
+    "translationRus": "ругать"
   },
   {
     "infinitive": "scheren",
@@ -844,7 +836,7 @@
     "presentPerfect": "geschoren",
     "frequency": "frequent",
     "translationEn": "to crop",
-    "translationRus": "asd"
+    "translationRus": "стричь"
   },
   {
     "infinitive": "schieben",
@@ -852,7 +844,7 @@
     "presentPerfect": "geschoben",
     "frequency": "frequent",
     "translationEn": "to push",
-    "translationRus": "asd"
+    "translationRus": "толкать"
   },
   {
     "infinitive": "schießen",
@@ -860,7 +852,7 @@
     "presentPerfect": "geschossen",
     "frequency": "frequent",
     "translationEn": "to shoot",
-    "translationRus": "asd"
+    "translationRus": "стрелять"
   },
   {
     "infinitive": "schlafen",
@@ -868,7 +860,7 @@
     "presentPerfect": "geschlafen",
     "frequency": "frequent",
     "translationEn": "to sleep",
-    "translationRus": "asd"
+    "translationRus": "спать"
   },
   {
     "infinitive": "schlagen",
@@ -876,7 +868,7 @@
     "presentPerfect": "geschlagen",
     "frequency": "frequent",
     "translationEn": "to beat",
-    "translationRus": "asd"
+    "translationRus": "бить"
   },
   {
     "infinitive": "schleichen",
@@ -884,14 +876,15 @@
     "presentPerfect": "geschlichen",
     "frequency": "infrequent",
     "translationEn": "to creep",
-    "translationRus": "asd"
+    "translationRus": "красться"
   },
   {
     "infinitive": "schleifen",
     "pastTense": "schliff",
     "presentPerfect": "geschliffen",
     "frequency": "infrequent",
-    "translationEn": "test"
+    "translationEn": "to grind",
+    "translationRus": "точить"
   },
   {
     "infinitive": "schließen",
@@ -899,7 +892,7 @@
     "presentPerfect": "geschlossen",
     "frequency": "frequent",
     "translationEn": "to close",
-    "translationRus": "asd"
+    "translationRus": "закрывать"
   },
   {
     "infinitive": "schlingen",
@@ -907,7 +900,7 @@
     "presentPerfect": "geschlungen",
     "frequency": "frequent",
     "translationEn": "to loop",
-    "translationRus": "asd"
+    "translationRus": "обвивать"
   },
   {
     "infinitive": "schmeißen",
@@ -915,7 +908,7 @@
     "presentPerfect": "geschmissen",
     "frequency": "frequent",
     "translationEn": "to throw",
-    "translationRus": "asd"
+    "translationRus": "бросать"
   },
   {
     "infinitive": "schmelzen",
@@ -923,7 +916,7 @@
     "presentPerfect": "geschmolzen",
     "frequency": "frequent",
     "translationEn": "to melt",
-    "translationRus": "asd"
+    "translationRus": "плавить"
   },
   {
     "infinitive": "schneiden",
@@ -931,7 +924,7 @@
     "presentPerfect": "geschnitten",
     "frequency": "frequent",
     "translationEn": "to cut",
-    "translationRus": "asd"
+    "translationRus": "резать"
   },
   {
     "infinitive": "schreiben",
@@ -939,7 +932,7 @@
     "presentPerfect": "geschrieben",
     "frequency": "frequent",
     "translationEn": "to write",
-    "translationRus": "asd"
+    "translationRus": "писать"
   },
   {
     "infinitive": "schreien",
@@ -947,7 +940,7 @@
     "presentPerfect": "geschrie(e)n",
     "frequency": "frequent",
     "translationEn": "to scream",
-    "translationRus": "asd"
+    "translationRus": "кричать"
   },
   {
     "infinitive": "schreiten",
@@ -955,7 +948,7 @@
     "presentPerfect": "geschritten",
     "frequency": "frequent",
     "translationEn": "to walk",
-    "translationRus": "asd"
+    "translationRus": "шагать"
   },
   {
     "infinitive": "schweigen",
@@ -963,7 +956,7 @@
     "presentPerfect": "geschwiegen",
     "frequency": "frequent",
     "translationEn": "to say nothing",
-    "translationRus": "asd"
+    "translationRus": "молчать"
   },
   {
     "infinitive": "schwellen",
@@ -971,7 +964,7 @@
     "presentPerfect": "geschwollen",
     "frequency": "frequent",
     "translationEn": "to swell",
-    "translationRus": "asd"
+    "translationRus": "отекать"
   },
   {
     "infinitive": "schwimmen",
@@ -979,15 +972,15 @@
     "presentPerfect": "geschwommen",
     "frequency": "frequent",
     "translationEn": "to swim",
-    "translationRus": "asd"
+    "translationRus": "плыть"
   },
   {
     "infinitive": "schwingen",
     "pastTense": "schwang",
     "presentPerfect": "geschwungen",
     "frequency": "frequent",
-    "translationEn": "to flourish",
-    "translationRus": "asd"
+    "translationEn": "to swing",
+    "translationRus": "махать"
   },
   {
     "infinitive": "schwören",
@@ -995,7 +988,7 @@
     "presentPerfect": "geschworen",
     "frequency": "infrequent",
     "translationEn": "to swear",
-    "translationRus": "asd"
+    "translationRus": "ругаться"
   },
   {
     "infinitive": "sehen",
@@ -1003,7 +996,7 @@
     "presentPerfect": "gesehen",
     "frequency": "frequent",
     "translationEn": "to see",
-    "translationRus": "asd"
+    "translationRus": "видеть"
   },
   {
     "infinitive": "senden",
@@ -1011,7 +1004,7 @@
     "presentPerfect": "gesandt",
     "frequency": "frequent",
     "translationEn": "to send",
-    "translationRus": "asd"
+    "translationRus": "отправлять"
   },
   {
     "infinitive": "singen",
@@ -1019,7 +1012,7 @@
     "presentPerfect": "gesungen",
     "frequency": "frequent",
     "translationEn": "to sing",
-    "translationRus": "asd"
+    "translationRus": "петь"
   },
   {
     "infinitive": "sinken",
@@ -1027,7 +1020,7 @@
     "presentPerfect": "gesunken",
     "frequency": "frequent",
     "translationEn": "to sink",
-    "translationRus": "asd"
+    "translationRus": "тонуть"
   },
   {
     "infinitive": "sinnen",
@@ -1035,7 +1028,7 @@
     "presentPerfect": "gesonnen",
     "frequency": "infrequent",
     "translationEn": "to think",
-    "translationRus": "asd"
+    "translationRus": "думать"
   },
   {
     "infinitive": "sitzen",
@@ -1043,7 +1036,7 @@
     "presentPerfect": "gesessen",
     "frequency": "frequent",
     "translationEn": "to sit",
-    "translationRus": "asd"
+    "translationRus": "сидеть"
   },
   {
     "infinitive": "spalten",
@@ -1051,15 +1044,15 @@
     "presentPerfect": "gespalten",
     "frequency": "infrequent",
     "translationEn": "to divide",
-    "translationRus": "asd"
+    "translationRus": "разделять"
   },
   {
     "infinitive": "speien",
     "pastTense": "spie",
-    "presentPerfect": "gespie(e)n",
+    "presentPerfect": "gespien",
     "frequency": "infrequent",
-    "translationEn": "to breathe",
-    "translationRus": "asd"
+    "translationEn": "to spit",
+    "translationRus": "плевать"
   },
   {
     "infinitive": "spinnen",
@@ -1067,7 +1060,7 @@
     "presentPerfect": "gesponnen",
     "frequency": "frequent",
     "translationEn": "to spinn",
-    "translationRus": "asd"
+    "translationRus": "прясть"
   },
   {
     "infinitive": "sprechen",
@@ -1075,7 +1068,7 @@
     "presentPerfect": "gesprochen",
     "frequency": "frequent",
     "translationEn": "to speak",
-    "translationRus": "asd"
+    "translationRus": "говорить"
   },
   {
     "infinitive": "sprießen",
@@ -1083,7 +1076,7 @@
     "presentPerfect": "gesprossen",
     "frequency": "frequent",
     "translationEn": "to sprout",
-    "translationRus": "asd"
+    "translationRus": "прорастать"
   },
   {
     "infinitive": "springen",
@@ -1091,7 +1084,7 @@
     "presentPerfect": "gesprungen",
     "frequency": "frequent",
     "translationEn": "to bounce",
-    "translationRus": "asd"
+    "translationRus": "прыгать"
   },
   {
     "infinitive": "stechen",
@@ -1099,7 +1092,7 @@
     "presentPerfect": "gestochen",
     "frequency": "frequent",
     "translationEn": "to sting",
-    "translationRus": "asd"
+    "translationRus": "колоть"
   },
   {
     "infinitive": "stehen",
@@ -1107,7 +1100,7 @@
     "presentPerfect": "gestanden",
     "frequency": "frequent",
     "translationEn": "to stab",
-    "translationRus": "asd"
+    "translationRus": "стоять"
   },
   {
     "infinitive": "stehlen",
@@ -1115,7 +1108,7 @@
     "presentPerfect": "gestohlen",
     "frequency": "frequent",
     "translationEn": "to steal",
-    "translationRus": "asd"
+    "translationRus": "красть"
   },
   {
     "infinitive": "steigen",
@@ -1123,7 +1116,7 @@
     "presentPerfect": "gestiegen",
     "frequency": "frequent",
     "translationEn": "to increase",
-    "translationRus": "asd"
+    "translationRus": "расти"
   },
   {
     "infinitive": "sterben",
@@ -1131,7 +1124,7 @@
     "presentPerfect": "gestorben",
     "frequency": "frequent",
     "translationEn": "to die",
-    "translationRus": "asd"
+    "translationRus": "умирать"
   },
   {
     "infinitive": "stieben",
@@ -1139,7 +1132,7 @@
     "presentPerfect": "gestoben",
     "frequency": "infrequent",
     "translationEn": "to fly",
-    "translationRus": "asd"
+    "translationRus": "разлетаться"
   },
   {
     "infinitive": "stinken",
@@ -1147,7 +1140,7 @@
     "presentPerfect": "gestunken",
     "frequency": "frequent",
     "translationEn": "to stink",
-    "translationRus": "asd"
+    "translationRus": "вонять"
   },
   {
     "infinitive": "stoßen",
@@ -1155,15 +1148,15 @@
     "presentPerfect": "gestoßen",
     "frequency": "frequent",
     "translationEn": "to push",
-    "translationRus": "asd"
+    "translationRus": "толкать"
   },
   {
     "infinitive": "streichen",
     "pastTense": "strich",
     "presentPerfect": "gestrichen",
     "frequency": "frequent",
-    "translationEn": "to drop",
-    "translationRus": "asd"
+    "translationEn": "to paint",
+    "translationRus": "красить"
   },
   {
     "infinitive": "streiten",
@@ -1171,7 +1164,7 @@
     "presentPerfect": "gestritten",
     "frequency": "frequent",
     "translationEn": "to fight",
-    "translationRus": "asd"
+    "translationRus": "ссориться"
   },
   {
     "infinitive": "tragen",
@@ -1179,7 +1172,7 @@
     "presentPerfect": "getragen",
     "frequency": "frequent",
     "translationEn": "to bear",
-    "translationRus": "asd"
+    "translationRus": "нести"
   },
   {
     "infinitive": "treffen",
@@ -1187,15 +1180,15 @@
     "presentPerfect": "getroffen",
     "frequency": "frequent",
     "translationEn": "to meet",
-    "translationRus": "asd"
+    "translationRus": "встречать"
   },
   {
     "infinitive": "treiben",
     "pastTense": "trieb",
     "presentPerfect": "getrieben",
     "frequency": "frequent",
-    "translationEn": "to drive",
-    "translationRus": "asd"
+    "translationEn": "to chase",
+    "translationRus": "гнать"
   },
   {
     "infinitive": "treten",
@@ -1203,7 +1196,7 @@
     "presentPerfect": "getreten",
     "frequency": "frequent",
     "translationEn": "to step",
-    "translationRus": "asd"
+    "translationRus": "наступать"
   },
   {
     "infinitive": "trinken",
@@ -1211,7 +1204,7 @@
     "presentPerfect": "getrunken",
     "frequency": "frequent",
     "translationEn": "to drink",
-    "translationRus": "asd"
+    "translationRus": "пить"
   },
   {
     "infinitive": "trügen",
@@ -1219,7 +1212,7 @@
     "presentPerfect": "getrogen",
     "frequency": "infrequent",
     "translationEn": "to deceive",
-    "translationRus": "asd"
+    "translationRus": "обманывать"
   },
   {
     "infinitive": "tun",
@@ -1227,7 +1220,7 @@
     "presentPerfect": "getan",
     "frequency": "frequent",
     "translationEn": "to do",
-    "translationRus": "asd"
+    "translationRus": "делать"
   },
   {
     "infinitive": "verbleichen",
@@ -1235,7 +1228,7 @@
     "presentPerfect": "verblichen",
     "frequency": "infrequent",
     "translationEn": "to grow pale",
-    "translationRus": "asd"
+    "translationRus": "бледнеть"
   },
   {
     "infinitive": "verderben",
@@ -1243,7 +1236,7 @@
     "presentPerfect": "verdorben",
     "frequency": "frequent",
     "translationEn": "to spoil",
-    "translationRus": "asd"
+    "translationRus": "портиться"
   },
   {
     "infinitive": "verdrießen",
@@ -1251,7 +1244,7 @@
     "presentPerfect": "verdrossen",
     "frequency": "infrequent",
     "translationEn": "to irritate",
-    "translationRus": "asd"
+    "translationRus": "раздражать"
   },
   {
     "infinitive": "vergessen",
@@ -1259,7 +1252,7 @@
     "presentPerfect": "vergessen",
     "frequency": "frequent",
     "translationEn": "to forget",
-    "translationRus": "asd"
+    "translationRus": "забывать"
   },
   {
     "infinitive": "verlieren",
@@ -1267,7 +1260,7 @@
     "presentPerfect": "verloren",
     "frequency": "frequent",
     "translationEn": "to loose",
-    "translationRus": "asd"
+    "translationRus": "терять"
   },
   {
     "infinitive": "verschwinden",
@@ -1275,38 +1268,31 @@
     "presentPerfect": "verschwunden",
     "frequency": "frequent",
     "translationEn": "to disappear",
-    "translationRus": "asd"
+    "translationRus": "теряться"
   },
   {
     "infinitive": "verzeihen",
     "pastTense": "verzieh",
     "presentPerfect": "verziehen",
     "frequency": "frequent",
-    "translationEn": "to forgive"
-  },
-  {
-    "infinitive": "wachsen",
-    "pastTense": "wuchs",
-    "presentPerfect": "gewachsen",
-    "frequency": "infrequent",
-    "translationEn": "test",
-    "translationRus": "asd"
+    "translationEn": "to forgive",
+    "translationRus": "прощать"
   },
   {
     "infinitive": "waschen",
     "pastTense": "wusch",
     "presentPerfect": "gewaschen",
     "frequency": "frequent",
-    "translationEn": "to increase",
-    "translationRus": "asd"
+    "translationEn": "wash",
+    "translationRus": "стирать(белье)"
   },
   {
     "infinitive": "weichen",
     "pastTense": "wich",
     "presentPerfect": "gewichen",
     "frequency": "frequent",
-    "translationEn": "to move",
-    "translationRus": "asd"
+    "translationEn": "to move away",
+    "translationRus": "отходить"
   },
   {
     "infinitive": "weisen",
@@ -1314,7 +1300,7 @@
     "presentPerfect": "gewiesen",
     "frequency": "frequent",
     "translationEn": "to point out",
-    "translationRus": "asd"
+    "translationRus": "показывать"
   },
   {
     "infinitive": "wenden",
@@ -1322,7 +1308,7 @@
     "presentPerfect": "gewandt",
     "frequency": "frequent",
     "translationEn": "to turn",
-    "translationRus": "asd"
+    "translationRus": "поворачивать"
   },
   {
     "infinitive": "werben",
@@ -1330,7 +1316,7 @@
     "presentPerfect": "geworben",
     "frequency": "infrequent",
     "translationEn": "to advertize",
-    "translationRus": "asd"
+    "translationRus": "рекламировать"
   },
   {
     "infinitive": "werfen",
@@ -1338,7 +1324,7 @@
     "presentPerfect": "geworfen",
     "frequency": "frequent",
     "translationEn": "to throw",
-    "translationRus": "asd"
+    "translationRus": "бросать"
   },
   {
     "infinitive": "wiegen",
@@ -1346,7 +1332,7 @@
     "presentPerfect": "gewogen",
     "frequency": "frequent",
     "translationEn": "to rock",
-    "translationRus": "asd"
+    "translationRus": "качать"
   },
   {
     "infinitive": "winden",
@@ -1354,7 +1340,7 @@
     "presentPerfect": "gewunden",
     "frequency": "infrequent",
     "translationEn": "to wind",
-    "translationRus": "asd"
+    "translationRus": "наматывать"
   },
   {
     "infinitive": "wissen",
@@ -1362,7 +1348,7 @@
     "presentPerfect": "gewusst",
     "frequency": "frequent",
     "translationEn": "to know",
-    "translationRus": "asd"
+    "translationRus": "знать"
   },
   {
     "infinitive": "wringen",
@@ -1370,7 +1356,7 @@
     "presentPerfect": "gewrungen",
     "frequency": "infrequent",
     "translationEn": "to wring",
-    "translationRus": "asd"
+    "translationRus": "выжимать"
   },
   {
     "infinitive": "ziehen",
@@ -1378,7 +1364,7 @@
     "presentPerfect": "gezogen",
     "frequency": "frequent",
     "translationEn": "to draw",
-    "translationRus": "asd"
+    "translationRus": "тянуть"
   },
   {
     "infinitive": "zwingen",
@@ -1386,6 +1372,6 @@
     "presentPerfect": "gezwungen",
     "frequency": "frequent",
     "translationEn": "to force",
-    "translationRus": "asd"
+    "translationRus": "принуждать"
   }
 ]
