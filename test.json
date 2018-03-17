@@ -1,44 +1,73 @@
 [
   {
-    "infinitive": "bear",
-    "pastTense": "bore",
-    "presentPerfect": "borne",
-    "frequency": "frequent"
+    "infinitive": "backen",
+    "pastTense": "buk",
+    "presentPerfect": "gebacken",
+    "frequency": "frequent",
+    "translationEn": "to bake",
+    "translationRus": "печь"
   },
   {
-    "infinitive": "beat",
-    "pastTense": "beat",
-    "presentPerfect": "beaten",
-    "frequency": "frequent"
+    "infinitive": "befehlen",
+    "pastTense": "befahl",
+    "presentPerfect": "befohlen",
+    "frequency": "frequent",
+    "translationEn": "to order",
+    "translationRus": "приказывать"
   },
   {
-    "infinitive": "beget",
-    "pastTense": "begot",
-    "presentPerfect": "begot",
-    "frequency": "infrequent"
+    "infinitive": "beginnen",
+    "pastTense": "begann",
+    "presentPerfect": "begonnen",
+    "frequency": "frequent",
+    "translationEn": "to begin",
+    "translationRus": "начинать"
   },
   {
-    "infinitive": "begin",
-    "pastTense": "began",
-    "presentPerfect": "begun",
-    "frequency": "frequent"
+    "infinitive": "beißen",
+    "pastTense": "biss",
+    "presentPerfect": "gebissen",
+    "frequency": "frequent",
+    "translationEn": "to bite",
+    "translationRus": "кусать"
   },
   {
-    "infinitive": "bend",
-    "pastTense": "bent",
-    "presentPerfect": "bent",
-    "frequency": "frequent"
+    "infinitive": "bergen",
+    "pastTense": "barg",
+    "presentPerfect": "geborgen",
+    "frequency": "infrequent",
+    "translationEn": "to save",
+    "translationRus": "спасать"
   },
   {
-    "infinitive": "bet",
-    "pastTense": "bet",
-    "presentPerfect": "bet ",
-    "frequency": "frequent"
+    "infinitive": "bersten",
+    "pastTense": "barst",
+    "presentPerfect": "geborsten",
+    "frequency": "infrequent",
+    "translationEn": "to burst",
+    "translationRus": "лопать"
   },
-
   {
-    "infinitive": "bid",
-    "pastTense": "bid",
-    "presentPerfect": "bid",
-    "frequency": "frequent"
+    "infinitive": "betrügen",
+    "pastTense": "betrog",
+    "presentPerfect": "betrogen",
+    "frequency": "frequent",
+    "translationEn": "to cheat",
+    "translationRus": "обманывать"
+  },
+  {
+    "infinitive": "bewegen",
+    "pastTense": "bewog",
+    "presentPerfect": "bewogen",
+    "frequency": "frequent",
+    "translationEn": "to move",
+    "translationRus": "двигать"
+  },
+  {
+    "infinitive": "biegen",
+    "pastTense": "bog",
+    "presentPerfect": "gebogen",
+    "frequency": "frequent",
+    "translationEn": "to bend",
+    "translationRus": "гнуть"
 }]
