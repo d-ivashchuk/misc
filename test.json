@@ -1,0 +1,44 @@
+[
+  {
+    "infinitive": "bear",
+    "pastTense": "bore",
+    "presentPerfect": "borne",
+    "frequency": "frequent"
+  },
+  {
+    "infinitive": "beat",
+    "pastTense": "beat",
+    "presentPerfect": "beaten",
+    "frequency": "frequent"
+  },
+  {
+    "infinitive": "beget",
+    "pastTense": "begot",
+    "presentPerfect": "begot",
+    "frequency": "infrequent"
+  },
+  {
+    "infinitive": "begin",
+    "pastTense": "began",
+    "presentPerfect": "begun",
+    "frequency": "frequent"
+  },
+  {
+    "infinitive": "bend",
+    "pastTense": "bent",
+    "presentPerfect": "bent",
+    "frequency": "frequent"
+  },
+  {
+    "infinitive": "bet",
+    "pastTense": "bet",
+    "presentPerfect": "bet ",
+    "frequency": "frequent"
+  },
+
+  {
+    "infinitive": "bid",
+    "pastTense": "bid",
+    "presentPerfect": "bid",
+    "frequency": "frequent"
+}]
